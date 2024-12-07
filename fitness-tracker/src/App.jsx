@@ -8,6 +8,10 @@ function App() {
 
   return (<div className="App">
       <h1 className="text-blue-500 text-center">Welcome to Fitness Tracker!</h1>
+      <p className="text-center mt-4">Stay on top of your fitness goals.</p>
+    </div>
+              <div className="App">
+      <h1 className="text-blue-500 text-center">Welcome to Fitness Tracker!</h1>
     </div>
     <>
       <div>
